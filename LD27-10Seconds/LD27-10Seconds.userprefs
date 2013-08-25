@@ -1,0 +1,25 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\GUI\PlayerGUI.cs">
+    <Files>
+      <File FileName="Assets\Scripts\GUI\PlayerGUI.cs" Line="41" Column="80" />
+      <File FileName="Assets\Scripts\Entity\Character\NPCs\NpcEntity.cs" Line="156" Column="4" />
+      <File FileName="Assets\Scripts\Entity\Character\CharacterEntity.cs" Line="79" Column="3" />
+      <File FileName="Assets\Scripts\Entity\Character\Enemy\EnemyEntity.cs" Line="46" Column="1" />
+      <File FileName="Assets\Scripts\Entity\Weapon\Bullets\Bullet.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Entity\AI\BasicAIEntity.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Entity\Weapon\RangeWeaponController.cs" Line="64" Column="6" />
+      <File FileName="Assets\Scripts\Entity\AI\NavigationPoint.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Editor\NavigationGizmo.cs" Line="17" Column="76" />
+      <File FileName="Assets\Scripts\Game\SpawnPoint.cs" Line="28" Column="58" />
+      <File FileName="Assets\Scripts\Editor\SpawnGizmo.cs" Line="10" Column="13" />
+      <File FileName="Assets\Scripts\Game\SpawnProbability.cs" Line="15" Column="3" />
+      <File FileName="Assets\Scripts\Entity\Character\Player\PlayerEntity.cs" Line="26" Column="1" />
+      <File FileName="Assets\Scripts\Entity\Weapon\MeleeWeaponController.cs" Line="34" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
